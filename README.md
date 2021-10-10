@@ -1,6 +1,6 @@
 <p align="center"><img src="https://4.bp.blogspot.com/--jfiBVhD0tk/W8AgZiqTdyI/AAAAAAAAAFs/vL_e_rYHSWYFioptq98hkMEmvOsJRA7jQCLcBGAs/s640/Software-developer.jpg"></div>
 
-### align="center" Hi there 👋, This is Naeem Khan
+###  Hi there 👋, This is Naeem Khan
 
 I am an undergraduate student of Computer Science and Engineering.
 
