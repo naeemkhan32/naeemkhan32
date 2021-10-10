@@ -1,6 +1,5 @@
 ### Hi there 👋, This is Naeem Khan
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://www.google.com/search?q=programing+animation&client=firefox-b-d&sxsrf=AOaemvL1pX_XYSPTEfGTrF3tQ9LH3n0EWQ:1633895577450&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7rPmrz8DzAhVDzjgGHTbHAcAQ_AUoAXoECAEQAw&biw=1535&bih=779&dpr=1.25#imgrc=8XkhQxcDyZ0PpM)
+![](https://www.google.com/search?q=programing+animation&client=firefox-b-d&sxsrf=AOaemvL1pX_XYSPTEfGTrF3tQ9LH3n0EWQ:1633895577450&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7rPmrz8DzAhVDzjgGHTbHAcAQ_AUoAXoECAEQAw&biw=1535&bih=779&dpr=1.25#imgrc=8XkhQxcDyZ0PpM)
 
 I am an undergraduate student of Computer Science and Engineering.
 
